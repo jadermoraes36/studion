@@ -1,0 +1,27 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "Homepage",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadermoraes36/studion.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Jader de Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadermoraes36/studion/issues"
+  },
+  "homepage": "https://github.com/jadermoraes36/studion#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
